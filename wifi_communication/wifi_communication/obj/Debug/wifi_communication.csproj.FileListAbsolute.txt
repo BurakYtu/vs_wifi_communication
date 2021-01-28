@@ -1,0 +1,10 @@
+D:\saidburakguzel\Projects\Works\C#\vs_wifi_communication\wifi_communication\wifi_communication\bin\Debug\wifi_communication.exe.config
+D:\saidburakguzel\Projects\Works\C#\vs_wifi_communication\wifi_communication\wifi_communication\bin\Debug\wifi_communication.exe
+D:\saidburakguzel\Projects\Works\C#\vs_wifi_communication\wifi_communication\wifi_communication\bin\Debug\wifi_communication.pdb
+D:\saidburakguzel\Projects\Works\C#\vs_wifi_communication\wifi_communication\wifi_communication\obj\Debug\wifi_communication.csprojAssemblyReference.cache
+D:\saidburakguzel\Projects\Works\C#\vs_wifi_communication\wifi_communication\wifi_communication\obj\Debug\wifi_communication.Form1.resources
+D:\saidburakguzel\Projects\Works\C#\vs_wifi_communication\wifi_communication\wifi_communication\obj\Debug\wifi_communication.Properties.Resources.resources
+D:\saidburakguzel\Projects\Works\C#\vs_wifi_communication\wifi_communication\wifi_communication\obj\Debug\wifi_communication.csproj.GenerateResource.cache
+D:\saidburakguzel\Projects\Works\C#\vs_wifi_communication\wifi_communication\wifi_communication\obj\Debug\wifi_communication.csproj.CoreCompileInputs.cache
+D:\saidburakguzel\Projects\Works\C#\vs_wifi_communication\wifi_communication\wifi_communication\obj\Debug\wifi_communication.exe
+D:\saidburakguzel\Projects\Works\C#\vs_wifi_communication\wifi_communication\wifi_communication\obj\Debug\wifi_communication.pdb
