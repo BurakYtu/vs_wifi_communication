@@ -1,0 +1,10 @@
+C:\Users\90545\source\repos\UdpListener\UdpListener\obj\Debug\UdpListener.csprojAssemblyReference.cache
+C:\Users\90545\source\repos\UdpListener\UdpListener\obj\Debug\UdpListener.Form1.resources
+C:\Users\90545\source\repos\UdpListener\UdpListener\obj\Debug\UdpListener.Properties.Resources.resources
+C:\Users\90545\source\repos\UdpListener\UdpListener\obj\Debug\UdpListener.csproj.GenerateResource.cache
+C:\Users\90545\source\repos\UdpListener\UdpListener\obj\Debug\UdpListener.csproj.CoreCompileInputs.cache
+C:\Users\90545\source\repos\UdpListener\UdpListener\bin\Debug\UdpListener.exe.config
+C:\Users\90545\source\repos\UdpListener\UdpListener\bin\Debug\UdpListener.exe
+C:\Users\90545\source\repos\UdpListener\UdpListener\bin\Debug\UdpListener.pdb
+C:\Users\90545\source\repos\UdpListener\UdpListener\obj\Debug\UdpListener.exe
+C:\Users\90545\source\repos\UdpListener\UdpListener\obj\Debug\UdpListener.pdb
